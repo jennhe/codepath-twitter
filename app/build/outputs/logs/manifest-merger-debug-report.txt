@@ -1,0 +1,220 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/jenhe/Documents/development/android/projects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:2:1-41:12
+INJECTED from /Users/jenhe/Documents/development/android/projects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:2:1-41:12
+INJECTED from /Users/jenhe/Documents/development/android/projects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:2:1-41:12
+INJECTED from /Users/jenhe/Documents/development/android/projects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:2:1-41:12
+MERGED from [com.codepath.libraries:android-oauth-handler:1.4.0] /Users/jenhe/.gradle/caches/transforms-2/files-2.1/4b5f5e1008aa021f7ef0607f4a2d48f0/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/jenhe/.gradle/caches/transforms-2/files-2.1/8e40ff62c72dd1c049f64a0bd508710e/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.persistence.room:runtime:1.1.1] /Users/jenhe/.gradle/caches/transforms-2/files-2.1/c0ae47e69cc617e1b1c6934716c9e7a6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/jenhe/.gradle/caches/transforms-2/files-2.1/cf9176a1d81507e6b63ba9a96369df34/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.stetho:stetho:1.5.0] /Users/jenhe/.gradle/caches/transforms-2/files-2.1/cade6c8ff9e627765bb23a21ffe1f29c/AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/jenhe/.gradle/caches/transforms-2/files-2.1/cdd2013b9a70a78516e025ae8f2d832c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:28.0.0] /Users/jenhe/.gradle/caches/transforms-2/files-2.1/deae1c6683f2e7e4518c2c8f1de1df64/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/jenhe/.gradle/caches/transforms-2/files-2.1/b97c05b3813b76328e953c1348e34ac1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/jenhe/.gradle/caches/transforms-2/files-2.1/c2b418e36b4f409262bcb575a62aac83/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/jenhe/.gradle/caches/transforms-2/files-2.1/430422b4fb469f94b0b9e7365c2fe64f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/jenhe/.gradle/caches/transforms-2/files-2.1/f5c76bdde330af52e425af6254dc4f55/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/jenhe/.gradle/caches/transforms-2/files-2.1/f5d41abab18abcdb9a28187eb04f2228/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/jenhe/.gradle/caches/transforms-2/files-2.1/a4f5a4aab37b1934361007f3ae227a7a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/jenhe/.gradle/caches/transforms-2/files-2.1/618c59fb3a0740aeb96fbc612e0122fc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/jenhe/.gradle/caches/transforms-2/files-2.1/dd3d76026a1aaf80ebe500eed824f91c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/jenhe/.gradle/caches/transforms-2/files-2.1/2d2bbb9d6f3b8a063f53f146d55e7cb9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/jenhe/.gradle/caches/transforms-2/files-2.1/d5ce0d39befdea2c25ba60a24de72d38/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/jenhe/.gradle/caches/transforms-2/files-2.1/a72ecfcbb1a1ef06845b59d0637477be/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/jenhe/.gradle/caches/transforms-2/files-2.1/eec9179f7f3c1712c176bd9cb6890376/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/jenhe/.gradle/caches/transforms-2/files-2.1/8df4de0a6dcdd81e7a556b2f063b144a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/jenhe/.gradle/caches/transforms-2/files-2.1/a01d6bceac849680a91dfc740a075a78/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/jenhe/.gradle/caches/transforms-2/files-2.1/a4c835308099a061f7816021916b4868/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/jenhe/.gradle/caches/transforms-2/files-2.1/2127147de71da631c1663d4f94a502fa/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/jenhe/.gradle/caches/transforms-2/files-2.1/a852015c0e30c34bd69d9b2e75734a7d/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.persistence:db-framework:1.1.1] /Users/jenhe/.gradle/caches/transforms-2/files-2.1/feb2977e63c15a004008c09d1c9856e3/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.persistence:db:1.1.1] /Users/jenhe/.gradle/caches/transforms-2/files-2.1/1766c581366e7653f6279f7fa4e0e796/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/jenhe/.gradle/caches/transforms-2/files-2.1/162cfe4fb59b34c5b58ea9a0093d8ebf/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/jenhe/.gradle/caches/transforms-2/files-2.1/094554e04a2ab362fe6df056a64670bd/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/jenhe/.gradle/caches/transforms-2/files-2.1/cb227e41c7cf132212bf69f0cfd6a6e9/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/jenhe/.gradle/caches/transforms-2/files-2.1/a1c8ed15f352a8c3fce55d42688d2aa4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/jenhe/.gradle/caches/transforms-2/files-2.1/a9d3aedfec408f8a9e46cf790d4bd48d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/jenhe/.gradle/caches/transforms-2/files-2.1/6e0da87dfcd7aa8d7140d58db0fcaa04/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/jenhe/.gradle/caches/transforms-2/files-2.1/04c8ab635fc8ea40fd289852dd033cef/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/jenhe/.gradle/caches/transforms-2/files-2.1/b86a606bce7967d0935f8910d8202aff/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/jenhe/.gradle/caches/transforms-2/files-2.1/ec26c66a4fd7f419bcfb649f6f464e9d/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/jenhe/Documents/development/android/projects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:2:1-41:12
+INJECTED from /Users/jenhe/Documents/development/android/projects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:2:1-41:12
+INJECTED from /Users/jenhe/Documents/development/android/projects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:2:1-41:12
+	package
+		ADDED from /Users/jenhe/Documents/development/android/projects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:3:5-51
+		INJECTED from /Users/jenhe/Documents/development/android/projects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/jenhe/Documents/development/android/projects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/jenhe/Documents/development/android/projects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /Users/jenhe/Documents/development/android/projects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/jenhe/Documents/development/android/projects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/jenhe/Documents/development/android/projects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/jenhe/Documents/development/android/projects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/jenhe/Documents/development/android/projects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/jenhe/Documents/development/android/projects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/jenhe/Documents/development/android/projects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:7:5-67
+	android:name
+		ADDED from /Users/jenhe/Documents/development/android/projects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:7:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/jenhe/Documents/development/android/projects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from /Users/jenhe/Documents/development/android/projects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:8:22-78
+application
+ADDED from /Users/jenhe/Documents/development/android/projects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:10:5-39:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/jenhe/.gradle/caches/transforms-2/files-2.1/cf9176a1d81507e6b63ba9a96369df34/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/jenhe/.gradle/caches/transforms-2/files-2.1/cf9176a1d81507e6b63ba9a96369df34/AndroidManifest.xml:9:5-20
+MERGED from [com.facebook.stetho:stetho:1.5.0] /Users/jenhe/.gradle/caches/transforms-2/files-2.1/cade6c8ff9e627765bb23a21ffe1f29c/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.stetho:stetho:1.5.0] /Users/jenhe/.gradle/caches/transforms-2/files-2.1/cade6c8ff9e627765bb23a21ffe1f29c/AndroidManifest.xml:11:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/jenhe/.gradle/caches/transforms-2/files-2.1/a4c835308099a061f7816021916b4868/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/jenhe/.gradle/caches/transforms-2/files-2.1/a4c835308099a061f7816021916b4868/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/jenhe/.gradle/caches/transforms-2/files-2.1/2127147de71da631c1663d4f94a502fa/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/jenhe/.gradle/caches/transforms-2/files-2.1/2127147de71da631c1663d4f94a502fa/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/jenhe/.gradle/caches/transforms-2/files-2.1/a4c835308099a061f7816021916b4868/AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from /Users/jenhe/Documents/development/android/projects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:14:9-41
+	android:icon
+		ADDED from /Users/jenhe/Documents/development/android/projects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:13:9-45
+	android:allowBackup
+		ADDED from /Users/jenhe/Documents/development/android/projects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from /Users/jenhe/Documents/development/android/projects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:15:9-40
+	android:usesCleartextTraffic
+		ADDED from /Users/jenhe/Documents/development/android/projects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:16:9-44
+	android:name
+		ADDED from /Users/jenhe/Documents/development/android/projects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.codepath.apps.restclienttemplate.models.ComposeActivity
+ADDED from /Users/jenhe/Documents/development/android/projects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:17:9-69
+	android:name
+		ADDED from /Users/jenhe/Documents/development/android/projects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:17:19-57
+activity#com.codepath.apps.restclienttemplate.TimelineActivity
+ADDED from /Users/jenhe/Documents/development/android/projects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:18:9-54
+	android:name
+		ADDED from /Users/jenhe/Documents/development/android/projects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:18:19-51
+activity#com.codepath.apps.restclienttemplate.LoginActivity
+ADDED from /Users/jenhe/Documents/development/android/projects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:19:9-38:20
+	android:label
+		ADDED from /Users/jenhe/Documents/development/android/projects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:21:13-45
+	android:theme
+		ADDED from /Users/jenhe/Documents/development/android/projects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:22:13-44
+	android:name
+		ADDED from /Users/jenhe/Documents/development/android/projects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:20:13-42
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/jenhe/Documents/development/android/projects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:23:13-27:29
+action#android.intent.action.MAIN
+ADDED from /Users/jenhe/Documents/development/android/projects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:24:17-69
+	android:name
+		ADDED from /Users/jenhe/Documents/development/android/projects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:24:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/jenhe/Documents/development/android/projects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:26:17-77
+	android:name
+		ADDED from /Users/jenhe/Documents/development/android/projects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:26:27-74
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:@string/intent_host+data:scheme:@string/intent_scheme
+ADDED from /Users/jenhe/Documents/development/android/projects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:28:13-37:29
+action#android.intent.action.VIEW
+ADDED from /Users/jenhe/Documents/development/android/projects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:29:17-69
+	android:name
+		ADDED from /Users/jenhe/Documents/development/android/projects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:29:25-66
+category#android.intent.category.DEFAULT
+ADDED from /Users/jenhe/Documents/development/android/projects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:31:17-76
+	android:name
+		ADDED from /Users/jenhe/Documents/development/android/projects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:31:27-73
+category#android.intent.category.BROWSABLE
+ADDED from /Users/jenhe/Documents/development/android/projects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:32:17-78
+	android:name
+		ADDED from /Users/jenhe/Documents/development/android/projects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:32:27-75
+data
+ADDED from /Users/jenhe/Documents/development/android/projects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:34:17-36:62
+	android:host
+		ADDED from /Users/jenhe/Documents/development/android/projects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:35:21-55
+	android:scheme
+		ADDED from /Users/jenhe/Documents/development/android/projects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:36:21-59
+uses-sdk
+INJECTED from /Users/jenhe/Documents/development/android/projects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/jenhe/Documents/development/android/projects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml
+INJECTED from /Users/jenhe/Documents/development/android/projects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml
+MERGED from [com.codepath.libraries:android-oauth-handler:1.4.0] /Users/jenhe/.gradle/caches/transforms-2/files-2.1/4b5f5e1008aa021f7ef0607f4a2d48f0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.codepath.libraries:android-oauth-handler:1.4.0] /Users/jenhe/.gradle/caches/transforms-2/files-2.1/4b5f5e1008aa021f7ef0607f4a2d48f0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/jenhe/.gradle/caches/transforms-2/files-2.1/8e40ff62c72dd1c049f64a0bd508710e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/jenhe/.gradle/caches/transforms-2/files-2.1/8e40ff62c72dd1c049f64a0bd508710e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence.room:runtime:1.1.1] /Users/jenhe/.gradle/caches/transforms-2/files-2.1/c0ae47e69cc617e1b1c6934716c9e7a6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence.room:runtime:1.1.1] /Users/jenhe/.gradle/caches/transforms-2/files-2.1/c0ae47e69cc617e1b1c6934716c9e7a6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/jenhe/.gradle/caches/transforms-2/files-2.1/cf9176a1d81507e6b63ba9a96369df34/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/jenhe/.gradle/caches/transforms-2/files-2.1/cf9176a1d81507e6b63ba9a96369df34/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.stetho:stetho:1.5.0] /Users/jenhe/.gradle/caches/transforms-2/files-2.1/cade6c8ff9e627765bb23a21ffe1f29c/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.stetho:stetho:1.5.0] /Users/jenhe/.gradle/caches/transforms-2/files-2.1/cade6c8ff9e627765bb23a21ffe1f29c/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/jenhe/.gradle/caches/transforms-2/files-2.1/cdd2013b9a70a78516e025ae8f2d832c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/jenhe/.gradle/caches/transforms-2/files-2.1/cdd2013b9a70a78516e025ae8f2d832c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /Users/jenhe/.gradle/caches/transforms-2/files-2.1/deae1c6683f2e7e4518c2c8f1de1df64/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /Users/jenhe/.gradle/caches/transforms-2/files-2.1/deae1c6683f2e7e4518c2c8f1de1df64/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/jenhe/.gradle/caches/transforms-2/files-2.1/b97c05b3813b76328e953c1348e34ac1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/jenhe/.gradle/caches/transforms-2/files-2.1/b97c05b3813b76328e953c1348e34ac1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/jenhe/.gradle/caches/transforms-2/files-2.1/c2b418e36b4f409262bcb575a62aac83/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/jenhe/.gradle/caches/transforms-2/files-2.1/c2b418e36b4f409262bcb575a62aac83/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/jenhe/.gradle/caches/transforms-2/files-2.1/430422b4fb469f94b0b9e7365c2fe64f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/jenhe/.gradle/caches/transforms-2/files-2.1/430422b4fb469f94b0b9e7365c2fe64f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/jenhe/.gradle/caches/transforms-2/files-2.1/f5c76bdde330af52e425af6254dc4f55/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/jenhe/.gradle/caches/transforms-2/files-2.1/f5c76bdde330af52e425af6254dc4f55/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/jenhe/.gradle/caches/transforms-2/files-2.1/f5d41abab18abcdb9a28187eb04f2228/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/jenhe/.gradle/caches/transforms-2/files-2.1/f5d41abab18abcdb9a28187eb04f2228/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/jenhe/.gradle/caches/transforms-2/files-2.1/a4f5a4aab37b1934361007f3ae227a7a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/jenhe/.gradle/caches/transforms-2/files-2.1/a4f5a4aab37b1934361007f3ae227a7a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/jenhe/.gradle/caches/transforms-2/files-2.1/618c59fb3a0740aeb96fbc612e0122fc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/jenhe/.gradle/caches/transforms-2/files-2.1/618c59fb3a0740aeb96fbc612e0122fc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/jenhe/.gradle/caches/transforms-2/files-2.1/dd3d76026a1aaf80ebe500eed824f91c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/jenhe/.gradle/caches/transforms-2/files-2.1/dd3d76026a1aaf80ebe500eed824f91c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/jenhe/.gradle/caches/transforms-2/files-2.1/2d2bbb9d6f3b8a063f53f146d55e7cb9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/jenhe/.gradle/caches/transforms-2/files-2.1/2d2bbb9d6f3b8a063f53f146d55e7cb9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/jenhe/.gradle/caches/transforms-2/files-2.1/d5ce0d39befdea2c25ba60a24de72d38/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/jenhe/.gradle/caches/transforms-2/files-2.1/d5ce0d39befdea2c25ba60a24de72d38/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/jenhe/.gradle/caches/transforms-2/files-2.1/a72ecfcbb1a1ef06845b59d0637477be/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/jenhe/.gradle/caches/transforms-2/files-2.1/a72ecfcbb1a1ef06845b59d0637477be/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/jenhe/.gradle/caches/transforms-2/files-2.1/eec9179f7f3c1712c176bd9cb6890376/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/jenhe/.gradle/caches/transforms-2/files-2.1/eec9179f7f3c1712c176bd9cb6890376/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/jenhe/.gradle/caches/transforms-2/files-2.1/8df4de0a6dcdd81e7a556b2f063b144a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/jenhe/.gradle/caches/transforms-2/files-2.1/8df4de0a6dcdd81e7a556b2f063b144a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/jenhe/.gradle/caches/transforms-2/files-2.1/a01d6bceac849680a91dfc740a075a78/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/jenhe/.gradle/caches/transforms-2/files-2.1/a01d6bceac849680a91dfc740a075a78/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/jenhe/.gradle/caches/transforms-2/files-2.1/a4c835308099a061f7816021916b4868/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/jenhe/.gradle/caches/transforms-2/files-2.1/a4c835308099a061f7816021916b4868/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/jenhe/.gradle/caches/transforms-2/files-2.1/2127147de71da631c1663d4f94a502fa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/jenhe/.gradle/caches/transforms-2/files-2.1/2127147de71da631c1663d4f94a502fa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/jenhe/.gradle/caches/transforms-2/files-2.1/a852015c0e30c34bd69d9b2e75734a7d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/jenhe/.gradle/caches/transforms-2/files-2.1/a852015c0e30c34bd69d9b2e75734a7d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db-framework:1.1.1] /Users/jenhe/.gradle/caches/transforms-2/files-2.1/feb2977e63c15a004008c09d1c9856e3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db-framework:1.1.1] /Users/jenhe/.gradle/caches/transforms-2/files-2.1/feb2977e63c15a004008c09d1c9856e3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db:1.1.1] /Users/jenhe/.gradle/caches/transforms-2/files-2.1/1766c581366e7653f6279f7fa4e0e796/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db:1.1.1] /Users/jenhe/.gradle/caches/transforms-2/files-2.1/1766c581366e7653f6279f7fa4e0e796/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/jenhe/.gradle/caches/transforms-2/files-2.1/162cfe4fb59b34c5b58ea9a0093d8ebf/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/jenhe/.gradle/caches/transforms-2/files-2.1/162cfe4fb59b34c5b58ea9a0093d8ebf/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/jenhe/.gradle/caches/transforms-2/files-2.1/094554e04a2ab362fe6df056a64670bd/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/jenhe/.gradle/caches/transforms-2/files-2.1/094554e04a2ab362fe6df056a64670bd/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/jenhe/.gradle/caches/transforms-2/files-2.1/cb227e41c7cf132212bf69f0cfd6a6e9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/jenhe/.gradle/caches/transforms-2/files-2.1/cb227e41c7cf132212bf69f0cfd6a6e9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/jenhe/.gradle/caches/transforms-2/files-2.1/a1c8ed15f352a8c3fce55d42688d2aa4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/jenhe/.gradle/caches/transforms-2/files-2.1/a1c8ed15f352a8c3fce55d42688d2aa4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/jenhe/.gradle/caches/transforms-2/files-2.1/a9d3aedfec408f8a9e46cf790d4bd48d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/jenhe/.gradle/caches/transforms-2/files-2.1/a9d3aedfec408f8a9e46cf790d4bd48d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/jenhe/.gradle/caches/transforms-2/files-2.1/6e0da87dfcd7aa8d7140d58db0fcaa04/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/jenhe/.gradle/caches/transforms-2/files-2.1/6e0da87dfcd7aa8d7140d58db0fcaa04/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/jenhe/.gradle/caches/transforms-2/files-2.1/04c8ab635fc8ea40fd289852dd033cef/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/jenhe/.gradle/caches/transforms-2/files-2.1/04c8ab635fc8ea40fd289852dd033cef/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/jenhe/.gradle/caches/transforms-2/files-2.1/b86a606bce7967d0935f8910d8202aff/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/jenhe/.gradle/caches/transforms-2/files-2.1/b86a606bce7967d0935f8910d8202aff/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/jenhe/.gradle/caches/transforms-2/files-2.1/ec26c66a4fd7f419bcfb649f6f464e9d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/jenhe/.gradle/caches/transforms-2/files-2.1/ec26c66a4fd7f419bcfb649f6f464e9d/AndroidManifest.xml:20:5-44
+INJECTED from /Users/jenhe/Documents/development/android/projects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml
+INJECTED from /Users/jenhe/Documents/development/android/projects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/jenhe/Documents/development/android/projects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml
+		ADDED from /Users/jenhe/Documents/development/android/projects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/jenhe/Documents/development/android/projects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/jenhe/Documents/development/android/projects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml
+		ADDED from /Users/jenhe/Documents/development/android/projects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/jenhe/Documents/development/android/projects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml
