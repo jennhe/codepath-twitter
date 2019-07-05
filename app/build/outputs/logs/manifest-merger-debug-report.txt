@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/jenhe/Documents/development/android/projects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:2:1-41:12
-INJECTED from /Users/jenhe/Documents/development/android/projects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:2:1-41:12
-INJECTED from /Users/jenhe/Documents/development/android/projects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:2:1-41:12
-INJECTED from /Users/jenhe/Documents/development/android/projects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:2:1-41:12
+ADDED from /Users/jenhe/Documents/development/android/projects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:2:1-42:12
+INJECTED from /Users/jenhe/Documents/development/android/projects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:2:1-42:12
+INJECTED from /Users/jenhe/Documents/development/android/projects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:2:1-42:12
+INJECTED from /Users/jenhe/Documents/development/android/projects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:2:1-42:12
 MERGED from [com.codepath.libraries:android-oauth-handler:1.4.0] /Users/jenhe/.gradle/caches/transforms-2/files-2.1/4b5f5e1008aa021f7ef0607f4a2d48f0/AndroidManifest.xml:2:1-11:12
 MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/jenhe/.gradle/caches/transforms-2/files-2.1/8e40ff62c72dd1c049f64a0bd508710e/AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.persistence.room:runtime:1.1.1] /Users/jenhe/.gradle/caches/transforms-2/files-2.1/c0ae47e69cc617e1b1c6934716c9e7a6/AndroidManifest.xml:17:1-22:12
@@ -39,9 +39,9 @@ MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/jenhe/.gra
 MERGED from [com.android.support:print:28.0.0] /Users/jenhe/.gradle/caches/transforms-2/files-2.1/04c8ab635fc8ea40fd289852dd033cef/AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/jenhe/.gradle/caches/transforms-2/files-2.1/b86a606bce7967d0935f8910d8202aff/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:interpolator:28.0.0] /Users/jenhe/.gradle/caches/transforms-2/files-2.1/ec26c66a4fd7f419bcfb649f6f464e9d/AndroidManifest.xml:17:1-22:12
-INJECTED from /Users/jenhe/Documents/development/android/projects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:2:1-41:12
-INJECTED from /Users/jenhe/Documents/development/android/projects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:2:1-41:12
-INJECTED from /Users/jenhe/Documents/development/android/projects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:2:1-41:12
+INJECTED from /Users/jenhe/Documents/development/android/projects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:2:1-42:12
+INJECTED from /Users/jenhe/Documents/development/android/projects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:2:1-42:12
+INJECTED from /Users/jenhe/Documents/development/android/projects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:2:1-42:12
 	package
 		ADDED from /Users/jenhe/Documents/development/android/projects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:3:5-51
 		INJECTED from /Users/jenhe/Documents/development/android/projects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml
@@ -65,7 +65,7 @@ ADDED from /Users/jenhe/Documents/development/android/projects/Twitter/codepath-
 	android:name
 		ADDED from /Users/jenhe/Documents/development/android/projects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:8:22-78
 application
-ADDED from /Users/jenhe/Documents/development/android/projects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:10:5-39:19
+ADDED from /Users/jenhe/Documents/development/android/projects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:10:5-40:19
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/jenhe/.gradle/caches/transforms-2/files-2.1/cf9176a1d81507e6b63ba9a96369df34/AndroidManifest.xml:9:5-20
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/jenhe/.gradle/caches/transforms-2/files-2.1/cf9176a1d81507e6b63ba9a96369df34/AndroidManifest.xml:9:5-20
 MERGED from [com.facebook.stetho:stetho:1.5.0] /Users/jenhe/.gradle/caches/transforms-2/files-2.1/cade6c8ff9e627765bb23a21ffe1f29c/AndroidManifest.xml:11:5-20
@@ -88,52 +88,52 @@ MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/jenhe/.gradl
 		ADDED from /Users/jenhe/Documents/development/android/projects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:16:9-44
 	android:name
 		ADDED from /Users/jenhe/Documents/development/android/projects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:11:9-40
-activity#com.codepath.apps.restclienttemplate.models.ComposeActivity
-ADDED from /Users/jenhe/Documents/development/android/projects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:17:9-69
+activity#com.codepath.apps.restclienttemplate.ComposeActivity
+ADDED from /Users/jenhe/Documents/development/android/projects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:18:9-62
 	android:name
-		ADDED from /Users/jenhe/Documents/development/android/projects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:17:19-57
+		ADDED from /Users/jenhe/Documents/development/android/projects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:18:19-50
 activity#com.codepath.apps.restclienttemplate.TimelineActivity
-ADDED from /Users/jenhe/Documents/development/android/projects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:18:9-54
+ADDED from /Users/jenhe/Documents/development/android/projects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:19:9-54
 	android:name
-		ADDED from /Users/jenhe/Documents/development/android/projects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:18:19-51
+		ADDED from /Users/jenhe/Documents/development/android/projects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:19:19-51
 activity#com.codepath.apps.restclienttemplate.LoginActivity
-ADDED from /Users/jenhe/Documents/development/android/projects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:19:9-38:20
+ADDED from /Users/jenhe/Documents/development/android/projects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:20:9-39:20
 	android:label
-		ADDED from /Users/jenhe/Documents/development/android/projects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:21:13-45
+		ADDED from /Users/jenhe/Documents/development/android/projects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:22:13-45
 	android:theme
-		ADDED from /Users/jenhe/Documents/development/android/projects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:22:13-44
+		ADDED from /Users/jenhe/Documents/development/android/projects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:23:13-44
 	android:name
-		ADDED from /Users/jenhe/Documents/development/android/projects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:20:13-42
+		ADDED from /Users/jenhe/Documents/development/android/projects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:21:13-42
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/jenhe/Documents/development/android/projects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:23:13-27:29
+ADDED from /Users/jenhe/Documents/development/android/projects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:24:13-28:29
 action#android.intent.action.MAIN
-ADDED from /Users/jenhe/Documents/development/android/projects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:24:17-69
+ADDED from /Users/jenhe/Documents/development/android/projects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:25:17-69
 	android:name
-		ADDED from /Users/jenhe/Documents/development/android/projects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:24:25-66
+		ADDED from /Users/jenhe/Documents/development/android/projects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:25:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/jenhe/Documents/development/android/projects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:26:17-77
+ADDED from /Users/jenhe/Documents/development/android/projects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:27:17-77
 	android:name
-		ADDED from /Users/jenhe/Documents/development/android/projects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:26:27-74
+		ADDED from /Users/jenhe/Documents/development/android/projects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:27:27-74
 intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:@string/intent_host+data:scheme:@string/intent_scheme
-ADDED from /Users/jenhe/Documents/development/android/projects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:28:13-37:29
+ADDED from /Users/jenhe/Documents/development/android/projects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:29:13-38:29
 action#android.intent.action.VIEW
-ADDED from /Users/jenhe/Documents/development/android/projects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:29:17-69
+ADDED from /Users/jenhe/Documents/development/android/projects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:30:17-69
 	android:name
-		ADDED from /Users/jenhe/Documents/development/android/projects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:29:25-66
+		ADDED from /Users/jenhe/Documents/development/android/projects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:30:25-66
 category#android.intent.category.DEFAULT
-ADDED from /Users/jenhe/Documents/development/android/projects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:31:17-76
+ADDED from /Users/jenhe/Documents/development/android/projects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:32:17-76
 	android:name
-		ADDED from /Users/jenhe/Documents/development/android/projects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:31:27-73
+		ADDED from /Users/jenhe/Documents/development/android/projects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:32:27-73
 category#android.intent.category.BROWSABLE
-ADDED from /Users/jenhe/Documents/development/android/projects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:32:17-78
+ADDED from /Users/jenhe/Documents/development/android/projects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:33:17-78
 	android:name
-		ADDED from /Users/jenhe/Documents/development/android/projects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:32:27-75
+		ADDED from /Users/jenhe/Documents/development/android/projects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:33:27-75
 data
-ADDED from /Users/jenhe/Documents/development/android/projects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:34:17-36:62
+ADDED from /Users/jenhe/Documents/development/android/projects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:35:17-37:62
 	android:host
-		ADDED from /Users/jenhe/Documents/development/android/projects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:35:21-55
+		ADDED from /Users/jenhe/Documents/development/android/projects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:36:21-55
 	android:scheme
-		ADDED from /Users/jenhe/Documents/development/android/projects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:36:21-59
+		ADDED from /Users/jenhe/Documents/development/android/projects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:37:21-59
 uses-sdk
 INJECTED from /Users/jenhe/Documents/development/android/projects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/jenhe/Documents/development/android/projects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml
