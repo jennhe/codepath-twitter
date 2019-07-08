@@ -57,7 +57,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Twitter API was a bit janky at times.  
+Twitter API was a bit janky to use at times, and getting a new API key was necessary to continuing making API calls.
 
 ## Open-source libraries used
 
