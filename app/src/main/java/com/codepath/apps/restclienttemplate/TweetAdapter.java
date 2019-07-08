@@ -7,6 +7,7 @@ import android.text.format.DateUtils;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.ImageButton;
 import android.widget.ImageView;
 import android.widget.TextView;
 
@@ -45,12 +46,24 @@ public class TweetAdapter extends RecyclerView.Adapter<TweetAdapter.ViewHolder>{
     @Override
     public void onBindViewHolder(@NonNull ViewHolder holder, int position) {
         //get the data according to the position
-        Tweet tweet = mTweets.get(position);
+        final Tweet tweet = mTweets.get(position);
 
         //populate the views according to this data
         holder.tvUsername.setText(tweet.user.name);
         holder.tvBody.setText(tweet.body);
         holder.tvTimestamp.setText(getRelativeTimeAgo(tweet.createdAt));
+
+//        holder.tvFavorite.setText(Integer.toString(tweet.favoriteCount));
+
+//        holder.ibLike.setOnClickListener(new View.OnClickListener(){
+//            public void onClick(View v){
+//                if(tweet.isFavorited()){
+//                    holder.unFavoriteTweet(tweet.uid);
+//                } else {
+//                    client.favoriteTweet(tweet.uid);
+//                }
+//            }
+//        });
 
         Glide.with(context).load(tweet.user.profileImageUrl).into(holder.ivProfileImage);
     }
@@ -84,6 +97,11 @@ public class TweetAdapter extends RecyclerView.Adapter<TweetAdapter.ViewHolder>{
         public TextView tvUsername;
         public TextView tvBody;
         public TextView tvTimestamp;
+        public ImageButton ibLike;
+        public ImageButton ibRetweet;
+        public ImageButton ibReply;
+        public TextView tvLike;
+        public TextView tvRetweet;
 
         public ViewHolder(View itemView) {
             super(itemView);
@@ -93,6 +111,13 @@ public class TweetAdapter extends RecyclerView.Adapter<TweetAdapter.ViewHolder>{
             tvUsername = (TextView) itemView.findViewById(R.id.tvUserName);
             tvBody = (TextView) itemView.findViewById(R.id.tvBody);
             tvTimestamp = (TextView) itemView.findViewById(R.id.tvTimestamp);
+
+            ibLike = itemView.findViewById(R.id.ibLike);
+            ibRetweet = itemView.findViewById(R.id.ibRetweet);
+            ibReply = itemView.findViewById(R.id.ibReply);
+
+            tvLike = itemView.findViewById(R.id.tvLike);
+//            tvReply = itemView.findViewById(R.id.tvReply);
         }
     }
 }
