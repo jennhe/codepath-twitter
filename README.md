@@ -57,7 +57,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-No notes.
+Twitter API was a bit janky at times.  
 
 ## Open-source libraries used
 
