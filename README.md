@@ -59,6 +59,12 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 Twitter API was a bit janky to use at times, and getting a new API key was necessary to continuing making API calls.
 
+Understand the purpose of intents and how they work on a high level, but had a little bit difficulty actually implementing it myself.
+
+Other than that, I really enjoyed this project!
+
+(side note: I didn't complete as many stretch stories as I had hoped and worked more slowly compared other people because I typically find enjoyment in debugging and working through problems on my own rather than constantly putting my name in the support queue and getting instant help from a TA. I find myself gaining a lot more from the experience this way instead of quickly getting through the stretch stories and not really understanding what's going on. )
+
 ## Open-source libraries used
 
 - [Android Async HTTP](https://github.com/loopj/android-async-http) - Simple asynchronous HTTP requests with JSON parsing
