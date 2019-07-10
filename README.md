@@ -21,7 +21,7 @@ The following **required** functionality is completed:
 The following **stretch** features are implemented:
 
 * [X] User can **see a counter with total number of characters left for tweet** on compose tweet page
-* [ ] User can **pull down to refresh tweets timeline**
+* [X] User can **pull down to refresh tweets timeline**
 * [X] User is using **"Twitter branded" colors and styles**
 * [ ] User sees an **indeterminate progress indicator** when any background or network task is happening
 * [ ] User can **select "reply" from detail view to respond to a tweet**
@@ -32,7 +32,7 @@ The following **stretch** features are implemented:
 
 The following **bonus** features are implemented:
 
-* [ ] User can view more tweets as they scroll with infinite pagination
+* [X] User can view more tweets as they scroll with infinite pagination
 * [ ] Compose tweet functionality is build using modal overlay
 * [ ] User can **click a link within a tweet body** on tweet details view. The click will launch the web browser with relevant page opened.
 * [X] Use Parcelable instead of Serializable using the popular [Parceler library](http://guides.codepath.org/android/Using-Parceler).
