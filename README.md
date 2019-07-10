@@ -21,7 +21,7 @@ The following **required** functionality is completed:
 The following **stretch** features are implemented:
 
 * [X] User can **see a counter with total number of characters left for tweet** on compose tweet page
-* [ ] User can **pull down to refresh tweets timeline**
+* [X] User can **pull down to refresh tweets timeline**
 * [X] User is using **"Twitter branded" colors and styles**
 * [ ] User sees an **indeterminate progress indicator** when any background or network task is happening
 * [ ] User can **select "reply" from detail view to respond to a tweet**
@@ -32,7 +32,7 @@ The following **stretch** features are implemented:
 
 The following **bonus** features are implemented:
 
-* [ ] User can view more tweets as they scroll with infinite pagination
+* [X] User can view more tweets as they scroll with infinite pagination
 * [ ] Compose tweet functionality is build using modal overlay
 * [ ] User can **click a link within a tweet body** on tweet details view. The click will launch the web browser with relevant page opened.
 * [X] Use Parcelable instead of Serializable using the popular [Parceler library](http://guides.codepath.org/android/Using-Parceler).
@@ -58,6 +58,12 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 Twitter API was a bit janky to use at times, and getting a new API key was necessary to continuing making API calls.
+
+Understand the purpose of intents and how they work on a high level, but had a little bit difficulty actually implementing it myself.
+
+Other than that, I really enjoyed this project!
+
+(side note: I didn't complete as many stretch stories as I had hoped and worked more slowly compared other people because I typically find enjoyment in debugging and working through problems on my own rather than constantly putting my name in the support queue and getting instant help from a TA. I find myself gaining a lot more from the experience this way instead of quickly getting through the stretch stories and not really understanding what's going on. )
 
 ## Open-source libraries used
 
