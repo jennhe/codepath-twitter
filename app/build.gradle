@@ -30,6 +30,13 @@ android {
     }
 }
 
+allprojects {
+    repositories {
+        // requires Gradle v4.1+
+        google()
+    }
+}
+
 dependencies {
     implementation fileTree(dir: 'libs', include: '*.jar')
     implementation 'com.codepath.libraries:android-oauth-handler:1.4.0'
@@ -48,4 +55,6 @@ dependencies {
     annotationProcessor "android.arch.persistence.room:compiler:1.1.1"
     implementation 'com.facebook.stetho:stetho:1.5.0'
     implementation 'com.android.support:recyclerview-v7:28.0.0'
+    implementation 'com.android.support:support-v4:28.0.0'
+
 }
